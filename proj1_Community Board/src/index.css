@@ -1,0 +1,42 @@
+/* index.css */
+.Board {
+  display: grid;
+  flex-direction: column; /* Stack items vertically */
+  width: 800px;
+  margin: auto;
+  background-color: burlywood;
+  color: brown;
+}
+
+.Board-title {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.Board-cards {
+  display: grid;
+  grid-template-columns: repeat(
+    3,
+    1fr
+  ); /* Creates three columns of equal width */
+  gap: 20px; /* Adds space between the cards */
+}
+
+.Card {
+  width: 100%; /* Makes Card fill the grid column */
+  display: flex; /* Using flex to center content within each card */
+  flex-direction: column; /* Aligns children of Card vertically */
+  align-items: center;
+  background-color: aliceblue;
+}
+
+.Card img {
+  width: 100%; /* Sets the width to fill the card */
+  height: 150px; /* Sets a fixed height */
+  object-fit: cover; /* Covers the area without breaking aspect ratio */
+  margin-bottom: 20px; /* Adds space between the image and the text below */
+}
+/* .Card h2,
+h3 {
+  align-content: center;
+} */
