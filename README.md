@@ -9,8 +9,8 @@ link to course: https://courses.codepath.org/courses/web102/unit/9#!surveys
 
 ## Unit 2 - Creating an Interactive Frontend
 
-- [ ] lab: [Samosa Selector](https://courses.codepath.org/courses/web102/unit/2#!labs)
-- [ ] proj: [Flashcards! Part 1](https://courses.codepath.org/courses/web102/unit/2#!projects)
+- [x] lab: [Samosa Selector](https://courses.codepath.org/courses/web102/unit/2#!labs)
+- [x] proj: [Flashcards! Part 1](https://courses.codepath.org/courses/web102/unit/2#!projects)
 
 ## Unit 3 - Responding to Complex User Input
 
