@@ -4,8 +4,8 @@ link to course: https://courses.codepath.org/courses/web102/unit/9#!surveys
 
 ## Unit 1: Diving Into React
 
-- [ ] lab: [Timetabled](https://courses.codepath.org/courses/web102/unit/1#!labs)
-- [ ] proj: [Community Board](https://courses.codepath.org/courses/web102/unit/1#!projects)
+- [x] lab: [Timetabled](https://courses.codepath.org/courses/web102/unit/1#!labs)
+- [x] proj: [Community Board](https://courses.codepath.org/courses/web102/unit/1#!projects)
 
 ## Unit 2 - Creating an Interactive Frontend
 
