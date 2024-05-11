@@ -35,7 +35,7 @@ Here's a walkthrough of implemented required features:
 
 <!-- Replace this with whatever GIF tool you used! -->
 
-GIF created with [movavi](https://www.movavi.com/)
+GIF created with [Adobe Express](https://www.adobe.com/express/feature/video/convert/mov-to-gif)
 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
